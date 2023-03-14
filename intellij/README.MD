@@ -1,5 +1,5 @@
 
-![example workflow](https://github.com/aniaxb/zzpj1/actions/workflows/maven.yml/badge.svg)
+![example workflow](https://github.com/aniaxb/pl-java2023/actions/workflows/maven.yml/badge.svg)
 
 Enjoy your Weather Forecast with Brad Pitt!
 
