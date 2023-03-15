@@ -1,0 +1,16 @@
+<idea-plugin>
+    <id>com.plugin.WeatherPlugin</id>
+    <name>Weather Forecast</name>
+
+    <description><![CDATA[
+        A simple plugin that displays "Hello World" in a window.
+    ]]></description>
+
+    <version>1.0</version>
+
+    <idea-version since-build="2020.3"/>
+
+    <extensions defaultExtensionNs="com.intellij">
+        <toolWindow id="Plugin" anchor="left" factoryClass="WeatherPlugin"/>
+    </extensions>
+</idea-plugin>
